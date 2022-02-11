@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Mayday Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Index" transform="translate(-201.000000, -109.000000)">
+            <g id="Nav" transform="translate(0.000000, 99.000000)">
+                <g id="Mayday-Icon" transform="translate(201.000000, 10.000000)">
+                    <polygon id="Path" fill="#FFFFFF" points="38 76 38 36 45.2324723 36 55.6937269 58.2077922 66.5424354 36 73 36 73 76 68.3505535 76 68.3505535 42.5584416 57.6309963 63.9220779 53.2398524 63.9220779 42.6494465 41.9090909 42.6494465 76"></polygon>
+                    <path d="M55,0 C85.3981265,0 110,24.6596244 110,55 C110,85.4049296 85.3981265,110 55,110 C24.6018735,110 0,85.3403756 0,55 C3.43207118e-15,24.5950704 24.6018735,0 55,0 Z M55,4.38967136 C82.9508197,4.38967136 105.620609,27.0481221 105.620609,55 C105.620609,82.9518779 82.9508197,105.610329 55,105.610329 C27.0491803,105.610329 4.3793911,82.9518779 4.3793911,55 C4.3793911,27.0481221 27.0491803,4.38967136 55,4.38967136 Z" id="Shape" fill="#EE3383"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
