@@ -27370,3 +27370,20 @@
       }
     }
 
+.hero{
+  float: right;
+  margin-top: -102px; 
+  margin-right: -67px;
+  
+}
+
+@media (max-width: 768px) {
+  .hero_mob{
+    margin-top: 36px;
+    height: 533px;
+    width: 100%;
+    padding-right: 59px;
+
+  }
+  
+  }
