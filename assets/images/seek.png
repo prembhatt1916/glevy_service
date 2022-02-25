@@ -2,7 +2,7 @@
 <html lang="en" class="no-js">
 <head>
 	<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
-<title>Mayday Recruitment</title>
+<title>Glevy Recruitment</title>
 <link rel="canonical" href="https://www.maydayrecruitment.com/images/seek.png">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:image" content="https://www.maydayrecruitment.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmVPQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0c445b805af443630fcde01e12859d24f3846d2e/og-image.png">
@@ -446,7 +446,7 @@ bottom: 0;
 <header id="header" class="sub-header    clearfix">
 	<div class="container">
 		<div id="logo">
-			<a href="/" title="Go to the Homepage">Mayday Recruitment</a>
+			<a href="/" title="Go to the Homepage">Glevy Recruitment</a>
 		</div>
 		
 		<nav id="main-nav" class="hidden-xs hidden-sm">
@@ -512,7 +512,7 @@ bottom: 0;
       <div class="row">
          <div class="col-md-2 bar-separator ">
             <div id="logo">
-    			<a href="/" title="Go to the Homepage">Mayday Recruitment</a>
+    			<a href="/" title="Go to the Homepage">Glevy Recruitment</a>
     		</div>
          </div>
          <div class="col-md-4 bar-separator">
@@ -564,7 +564,7 @@ bottom: 0;
             </nav>
         </div>
          <div class="pull-left">
-            <p><span>Copyright &copy; All Rights Reserved Mayday Recruitment</span>
+            <p><span>Copyright &copy; All Rights Reserved Glevy Recruitment</span>
             <a href="/privacy-statement">Privacy, Disclaimer & Copyright Statements</a></p>
          </div>
          <div class="pull-right">
